@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1 font>Maven + Spring MVC Web Project Example : version 6</h1>
+<h1 font>Maven + Spring MVC Web Project Example : version 7</h1>
 
 <font color="red">This is new version</font>
  
