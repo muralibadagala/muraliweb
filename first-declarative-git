@@ -2,7 +2,7 @@ currentBuild.displayName= "testPipeline-#"+currentBuild.number
 pipeline{
     agent any
     environment{
-        PATH = "/home/ec2-user/myinstalls/apache-maven-3.6.3:$PATH"
+        PATH = "/home/ec2-user/myinstalls/apache-maven-3.6.3/bin:$PATH"
     }
     stages{
         stage("SCM Checkout"){
